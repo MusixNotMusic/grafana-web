@@ -1,2 +1,4 @@
 node_modules
 yarn_lock
+public/public/*
+public/build/*

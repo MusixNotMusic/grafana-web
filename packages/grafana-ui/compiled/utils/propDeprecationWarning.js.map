@@ -1,0 +1,1 @@
+{"version":3,"file":"propDeprecationWarning.js","sourceRoot":"","sources":["../../src/utils/propDeprecationWarning.ts"],"names":[],"mappings":"AAAA,IAAM,sBAAsB,GAAG,UAAC,aAAqB,EAAE,QAAgB,EAAE,WAAmB;IAC1F,IAAM,OAAO,GAAG,2BAAyB,aAAa,UAAK,QAAQ,4BAAuB,WAAW,aAAU,CAAC;IAChH,OAAO,CAAC,IAAI,CAAC,OAAO,CAAC,CAAC;AACxB,CAAC,CAAC;AAEF,eAAe,sBAAsB,CAAC"}
